@@ -1,3 +1,4 @@
+![Ollama LLM](img/ollama_llm.png)
 # DeepSeek-R1-local-API-in-Action
 
 This repository demonstrates how to use the DeepSeek-R1 language model locally through Ollama, leveraging both the OpenAI and LangChain libraries.
@@ -10,7 +11,7 @@ This repository demonstrates how to use the DeepSeek-R1 language model locally t
 
 1. Install Ollama
    ```bash
-   # For macOS M series
+   # For macOS M series or Windows
    Download from https://ollama.com/download
    
    # For Linux
